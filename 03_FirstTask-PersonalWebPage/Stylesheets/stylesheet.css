@@ -32,6 +32,12 @@ section[id="welcomeMessage"] {
     padding: 10px;
 }
 
+.linkImages {
+    width:10rem;
+    height:auto;
+    background-color: #112639;
+}
+
 .logos {
     width:50px;
     height:auto;
