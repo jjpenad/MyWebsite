@@ -1,0 +1,58 @@
+body {
+    background-color: #F0F7F7;
+}
+
+h2 {
+    font-size:larger;
+}
+
+h3 {
+    font-size: medium;
+}
+
+h4 {
+    font-size: small;
+}
+
+li {
+    list-style-type:none;
+}
+
+nav a {
+    color:#F0F7F7;
+}
+
+
+section[id="welcomeMessage"] {
+    vertical-align:middle;
+
+}
+
+.row {
+    padding: 10px;
+}
+
+.logos {
+    width:50px;
+    height:auto;
+    background-color: #112639;
+}
+
+footer {
+    height:20px;
+}
+
+
+#personalLogo {
+    width:4rem;
+    height:auto;
+}
+
+#generalNav {
+    background-color:#113954;
+}
+
+.personalPhotos {
+    width: 50px;
+    height:500px;
+}
