@@ -1,0 +1,36 @@
+$white: #F0F7F7;
+$dark-blue: #030336;
+$light-blue: #CBE4E8;
+$green-blue: #3B8890;
+
+
+.img-fluid {
+    width: 100%;
+}
+
+.logos {
+    width:8%;
+    height:auto;
+}
+
+.inner-container{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+#banner {
+    max-height: 400px;
+}
+#banner-footer {
+    max-height: 400px;
+}
+
+#topMenu{
+    background-color: $dark-blue;
+}
+
+#body {
+    padding: 0;
+    background-color: $white;
+}
